@@ -12,12 +12,12 @@ A simple web application that allows users to input receipt data and generates d
 ___________________________________________________________
 🛠 Installation
 
-Step 1: Clone the repository.
-bash.
-Copy code.
-git clone https://github.com/HushamGad/Create-PDFs-With-Node-JS-and-React.
-cd Create-PDFs-With-Node-JS-and-React.
-OR download as ZIP files.
+Step 1: Clone the repository
+bash
+Copy code
+git clone https://github.com/HushamGad/Create-PDFs-With-Node-JS-and-React
+cd Create-PDFs-With-Node-JS-and-React
+OR download as ZIP files
 ----------------------------------------------
 Step 2: Install dependencies
 In the root folder (for backend):
